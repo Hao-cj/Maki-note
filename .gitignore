@@ -1,0 +1,11 @@
+# Obsidian 本地工作区状态（每台机器、每次窗口布局都不同）
+Maki/.obsidian/workspace.json
+
+# Obsidian 第三方插件（体积大，建议由 Obsidian 自行安装）
+Maki/.obsidian/plugins/
+
+# 系统与编辑器临时文件
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
