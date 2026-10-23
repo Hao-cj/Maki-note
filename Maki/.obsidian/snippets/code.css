@@ -1,0 +1,25 @@
+/* ---------- 阅读视图 ---------- */
+.markdown-rendered pre {
+  background: var(--code-background);
+  border: 1px solid var(--background-modifier-border);
+  border-left: 3px solid var(--interactive-accent);
+  border-radius: 6px;
+  padding: 12px 14px;
+}
+
+.markdown-rendered :not(pre) > code {
+  background: var(--code-background);
+  padding: 1px 5px;
+  border-radius: 3px;
+}
+
+/* ---------- 编辑视图（实时预览） ---------- */
+.markdown-source-view.mod-cm6 .HyperMD-codeblock-bg {
+  background-color: var(--code-background);
+}
+
+.markdown-source-view.mod-cm6 .cm-inline-code {
+  background-color: var(--code-background);
+  padding: 0 3px;
+  border-radius: 3px;
+}
