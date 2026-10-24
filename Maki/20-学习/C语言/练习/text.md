@@ -8,3 +8,11 @@ int main(void) {
     return 0;
 }
 ```
+> [!success]-  运行结果
+> 8
+
+
+>[!success] 解惑
+>5
+
+![[示例标签.png|674]]
